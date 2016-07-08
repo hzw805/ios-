@@ -13,3 +13,5 @@ http://www.cocoachina.com/industry/20130605/6340.html<br>
 如果你是在模拟器里运行应用，你可以使用 来自 GitHub 的 Network Link Conditioner 来改变网络速度。它会成为你工具箱中的一个好工具，因为它强制你研究你的应用在连接速度并非最佳的情况下会变成什么样。<br>
 6、屏幕适配学习推荐网址<br>
 http://blog.csdn.net/phunxm/article/details/42174937<br>
+7、UIImagePickerController获取其子视图<br>
+http://www.cnblogs.com/likwo/archive/2012/07/07/2580669.html<br>
